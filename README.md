@@ -15,7 +15,7 @@ An application for seeing objects in virtual realty.
    - Example : 
    - ![alt text](https://github.com/PinkFlamingoz/3D-VR-Model-View/blob/main/Ar2.png)
  ## Features
- - Seeing a 3D object from your phone
+ - Seeing a 3D object from your phone.
  
  ## Future features
  - Option to add your own location and 3D object to view.
