@@ -14,6 +14,7 @@ An application for seeing objects in virtual realty.
  - To add another object you just drag it and attach it to the GPS Stage Object.
    - Example : 
    - ![alt text](https://github.com/PinkFlamingoz/3D-VR-Model-View/blob/main/Ar2.png)
+   
  ## Features
  - Seeing a 3D object from your phone.
  
