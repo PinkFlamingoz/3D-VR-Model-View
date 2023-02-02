@@ -8,7 +8,7 @@ An application for seeing objects in virtual realty.
    4. Install the `build1.0.apk` on an android phone.
  
  ## How to use the app
- - Currently you need to open the `App Folder` in Unity and change the Loaction manualy!
+ - Currently you need to open the `App Folder` in Unity and change the loaction manualy!
    - Example : 
    - ![alt text](https://github.com/PinkFlamingoz/3D-VR-Model-View/blob/main/Ar.png)
  - To add another object you just drag it and attach it to the GPS Stage Object.
